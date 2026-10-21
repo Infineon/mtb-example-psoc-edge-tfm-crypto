@@ -1,0 +1,1 @@
+set(IFX_SMIF_0_MEMORY_CONFIG "S25FS128S_SMIF0_SlaveSlot_1" CACHE STRING "SMIF 0 memory config symbol" FORCE)
